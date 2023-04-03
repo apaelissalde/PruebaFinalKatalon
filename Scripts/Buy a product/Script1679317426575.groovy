@@ -43,7 +43,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Checkout/input_Password_pas
 
 WebUI.click(findTestObject('Object Repository/Page_Checkout/input_Forgotten Password_button-login'))
 
-WebUI.click(findTestObject('Object Repository/Page_Checkout/input_Region  State_button-payment-address'))
+WebUI.click(findTestObject('Page_Checkout/input_Region  State_button-payment-address'))
 
 WebUI.click(findTestObject('Object Repository/Page_Checkout/input_Terms  Conditions_agree'))
 
