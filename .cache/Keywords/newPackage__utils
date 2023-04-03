@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "9E3D04E8B88170FE1374E5A92E4C2542",
+  "keywordClasses": [
+    {
+      "name": "newPackage.utils",
+      "keywordMethods": [
+        {
+          "name": "customPrint",
+          "parameters": [
+            {
+              "name": "msg",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

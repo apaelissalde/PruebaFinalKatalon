@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>regression</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>e9b730d0-4bd2-4455-b301-4245fb1c6337</testSuiteGuid>
+   <testCaseLink>
+      <guid>5e0cbcd5-f049-45e3-a412-5f8d7700eebc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Buy a product</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5eff64d5-fd53-4de4-b86c-d5f832ad7038</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/buyProduct</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2ea4f0ef-0ca9-4daf-9d9e-70fefc8d913a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5eff64d5-fd53-4de4-b86c-d5f832ad7038</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>productToSearch</value>
+         <variableId>8e1df9f3-7ee9-4048-927a-f1119713afc6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d2dd8f59-88ff-4957-82f4-b24247cdabe3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c1b82f54-8bab-41e2-8ee8-9cf40069763c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

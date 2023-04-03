@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc5e5c54-3141-4445-b9dc-971b11df8249</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>58fe1469-3d0f-45c7-ac66-81c8cb013810</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8da6d57b-f773-4507-9bed-d5a56c49528f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>658959a7-c674-4475-91ad-603915b1af51</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.baseUrl</defaultValue>
+      <description></description>
+      <id>58fe1469-3d0f-45c7-ac66-81c8cb013810</id>
+      <masked>false</masked>
+      <name>baseUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'aparicio@correo.com'</defaultValue>
+      <description></description>
+      <id>8da6d57b-f773-4507-9bed-d5a56c49528f</id>
+      <masked>false</masked>
+      <name>correo</name>
+   </variable>
+   <variable>
+      <defaultValue>'aparicio123'</defaultValue>
+      <description></description>
+      <id>658959a7-c674-4475-91ad-603915b1af51</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
